@@ -24,6 +24,12 @@ It's a Login-Register Project with the help of Firebase. It feartures the regist
 
 
 
+# Snapshots
+
+![LOGIN](https://user-images.githubusercontent.com/65823846/85581715-738aa780-b65a-11ea-9950-825d4f8229db.gif)
+
+
+
 # Getting Started
 
 - [Flutter Setup](https://flutter.dev/docs/get-started/install)

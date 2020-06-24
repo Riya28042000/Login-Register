@@ -26,7 +26,7 @@ It's a Login-Register Project with the help of Firebase. It feartures the regist
 
 # Snapshots
 
-![LOGIN](https://user-images.githubusercontent.com/65823846/85581715-738aa780-b65a-11ea-9950-825d4f8229db.gif)
+![LOGIN (1)](https://user-images.githubusercontent.com/65823846/85588959-c9fae480-b660-11ea-9714-f4ad77fe84fc.gif)
 
 
 

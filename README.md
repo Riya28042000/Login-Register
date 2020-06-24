@@ -10,6 +10,7 @@ It's a Login-Register Project with the help of Firebase. It feartures the regist
 - Use of Shared Preferences to ensure that the user is not logged out whenlogged out button id not pressed.
 - Integrated with Cloud Firestore
 - Authentication of Users through Firebase Auth
+- Nice UI
 
 
 
